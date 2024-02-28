@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dongran Zhai</title>
-    <link>http://localhost:1313/doris-web/tags/</link>
+    <link>http://localhost:1313/doris-web/en/tags/</link>
     <description>Recent content in Tags on Dongran Zhai</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>us</language>
-    <atom:link href="http://localhost:1313/doris-web/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://localhost:1313/doris-web/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
