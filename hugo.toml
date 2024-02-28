@@ -17,7 +17,7 @@ author = "Dongran Zhai"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Dongran's personal website"
 keywords = "About,Research,Papers,Contact"
-info = ["PhD Candidate","Ocean and Climate Data Science","University of California, Santa Cruz"]
+info = ["Ph.D. Candidate","Ocean and Climate Data Science","University of California, Santa Cruz"]
 # ["Detection & attribution","Ocean chlorophyll","Bayesian heirarchical model"]
 # bio = ["Hi, I am "]
 avatarURL = "images/avatar.JPG"
@@ -94,6 +94,11 @@ url = "research/"
 name = "Publications"
 weight = 3
 url = "publications/"
+
+[[languages.us.menu.main]]
+name = "CV"
+weight = 5
+url = "cv/"
 
 [[languages.us.menu.main]]
 name = "Contact"

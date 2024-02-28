@@ -3,8 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/doris-web/about/</loc>
+    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/doris-web/</loc>
+    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://localhost:1313/doris-web/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="us"
+                href="http://localhost:1313/doris-web/"
+                />
   </url><url>
     <loc>http://localhost:1313/doris-web/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/doris-web/cv/</loc>
   </url><url>
     <loc>http://localhost:1313/doris-web/publications/</loc>
   </url><url>
@@ -32,18 +48,6 @@
                 rel="alternate"
                 hreflang="us"
                 href="http://localhost:1313/doris-web/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/doris-web/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="http://localhost:1313/doris-web/cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="us"
-                href="http://localhost:1313/doris-web/"
                 />
   </url><url>
     <loc>http://localhost:1313/doris-web/series/</loc>
