@@ -13,11 +13,13 @@ enableEmoji = true
 noClasses = false
 
 [params]
-author = "Climate and Ocean Data Scientist"
+author = "Dongran Zhai"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Dongran's personal website"
 keywords = "About,Research,Papers,Contact"
-info = ["Detection & attribution","Ocean chlorophyll","Bayesian heirarchical model"]
+info = ["PhD Candidate","Ocean and Climate Data Science","University of California, Santa Cruz"]
+# ["Detection & attribution","Ocean chlorophyll","Bayesian heirarchical model"]
+# bio = ["Hi, I am "]
 avatarURL = "images/avatar.JPG"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
