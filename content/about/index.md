@@ -33,3 +33,11 @@ I am currently working on long-term trend detection in global ocean chlorophyll.
 2017 &emsp; &emsp; &emsp; &emsp; **Merit Student Award**, Nantong Eduation Bureau\
 2017 &emsp; &emsp; &emsp; &emsp; **Excellent Group Award**, Research Training and Development Competition\
 2016 &emsp; &emsp; &emsp; &emsp; **Excellent Student Cadre Award**, Student Union of Nantong University\
+
+# Mentor Experience
+
+2023-now &emsp; &emsp; **Science Internship Program.** Mentoring three high school students insert into existing research projects in the Ocean and Climate field.
+
+2022 &emsp; &emsp; &emsp; &emsp; **High School Student Research Mentor.** Research about what is the current situation of ocean pollution and what can we do to protect nthe ocean
+
+2021 &emsp; &emsp;&emsp; &emsp; **Undergraduate Student Research Mentor.** Publish a research article based on the impact of increasing plastic straws on marine ecosystems
