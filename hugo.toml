@@ -98,7 +98,7 @@ url = "publications/"
 [[languages.us.menu.main]]
 name = "CV"
 weight = 5
-url = "/Users/doris_zhai/Downloads/Resume_Dongran Zhai_20240213.pdf"
+url = "https://drive.google.com/file/d/1ZsEfiWtxMiPf7FGKgN-ItwGl7RqJJ45c/view?usp=sharing"
 
 [[languages.us.menu.main]]
 name = "Contact"

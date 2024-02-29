@@ -41,3 +41,22 @@ I am currently working on long-term trend detection in global ocean chlorophyll.
 2022 &emsp; &emsp; &emsp; &emsp; **High School Student Research Mentor.** Research about what is the current situation of ocean pollution and what can we do to protect nthe ocean
 
 2021 &emsp; &emsp;&emsp; &emsp; **Undergraduate Student Research Mentor.** Publish a research article based on the impact of increasing plastic straws on marine ecosystems
+
+
+
+# Teaching Experience
+
+**Teaching Assistant**\
+ESCI 100B: Fundamental Environmental Processes, UCSC, 2024\
+**Teaching Assistant**\
+ESCI167: Applied Environmental Time Series Analysis, UCSC, 2023\
+**Teaching Assistant**\
+ESCI 160: Data Analysis in the Environmental Sciences, UCSC, 2022
+
+
+# Service to the University & Leadership
+
+2022 &emsp; &emsp; &emsp; &emsp; &emsp; Contributed to RV Sally Ride Research Cruise in Pacific\
+2021-now &emsp; &emsp; &emsp; OS Peer Mentoring Program. Helps first-year graduate students accommodate to the academic and community life at the OS Department\
+2018-2019 &emsp; &emsp; &emsp; Vice-President of Nantong University Student Unions\
+2016-2017 &emsp; &emsp; &emsp;  Vice-President of Mo Wen-Sui Volunteers Association

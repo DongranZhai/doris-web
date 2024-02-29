@@ -38,3 +38,19 @@ CN201810726051.0, 2018-07-04
 Water Environmental Remediation in Small-Scale Urban Rivers; A Case Study of a
 College Campus River](https://xueshu.baidu.com/usercenter/paper/show?paperid=183b0xc0fm4d0vk0bs2d02105t526727&sc_from=pingtai4&cmd=paper_forward&title=%E5%B0%8F%E5%9E%8B%E5%9F%8E%E5%B8%82%E6%99%AF%E8%A7%82%E6%B0%B4%E4%BD%93%E6%B0%B4%E7%8E%AF%E5%A2%83%E7%9A%84%E6%95%B4%E6%B2%BB%E5%AF%B9%E7%AD%96%E2%80%94%E2%80%94%E4%BB%A5%E6%9F%90%E9%AB%98%E6%A0%A1%E6%A0%A1%E5%9B%AD%E6%B2%B3%E6%B5%81%E4%B8%BA%E4%BE%8B&wise=0)[J]. J. Nantong University (Natural Science Edition), 2018,
 17(02):23-30 (in Chinese)
+
+# Conferences & Workshops
+
+**Ocean Sciences Meeting (OSM)**, February 18-23, 2024, oral, Assessing long-term trends in ocean chlorophyll using a dynamic space-time model
+
+**The American Geophysical Union (AGU) Fall Meeting**, December 11-15, 2023, poster, Long-term trends in the extremes and variability of global and regional ocean chlorophyll concentrations
+
+**University of Santa Cruz Postdocs Association (USPA) Postdoc Symposium**, June 6, 2023, poster, Long-term trends in the distribution of ocean chlorophyll
+
+**Southern California Biogeochemical Ocean Observations and Models (SoCal BOOM) Symposium**, March 26, 2022, poster, Detecting long-term trends in satellite ocean chlorophyll
+
+**Ocean Sciences Meeting (OSM)**, February 28 - March 4, 2022, poster, Detecting long-term trends in satellite ocean chlorophyll
+
+**Ocean Science Department Open House**, February 11, 2022, Santa Cruz, USA, graduate student representative.
+
+**NOAA CoastWatch Satellite Course**, February 24 - 28, 2022, participant Machine Learning on Marine Biogeochemical (MLonMB), November 10, 2021, participant, held by Applied AI Initiative (AAII) at UC Santa Cruz
