@@ -6,13 +6,15 @@ title = "Research"
 
 # Academic Experience
 
->##### Detection and attribution of anthropogenic climate change fingerprinting in ocean chlorophyll
+>##### [Long-term trends in the distribution of ocean chlorophyll](https://essopenarchive.org/users/672150/articles/671368-long-term-trends-in-the-distribution-of-ocean-chlorophyll)
 
->##### Long-term trends in the distribution of ocean chlorophyll
+>##### [Detecting long-term trends in satellite ocean chlorophyll using Bayesian dynamic model](https://drive.google.com/file/d/1qecQzjSfPtNYV5pstIIhMKEyvxhqYBjn/view?usp=sharing)
+
+>##### Detection and attribution of anthropogenic climate change fingerprinting in ocean chlorophyll
 
 >##### Trends in sea surface temperature extremes over 1982-2021
 
->##### Detecting long-term trends in satellite ocean chlorophyll using Bayesian dynamic model
+
 
 ##### Past projects:
 
